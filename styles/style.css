@@ -143,3 +143,45 @@ width: 1100px;
 margin: 0 auto;
 padding: 30px ;
 }
+/* target  */
+.target-tittle{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.target-tittle h2{
+    font-size: 50px;
+    margin-bottom: 30 px;
+}
+.target-tittle p{
+    margin-top: 30px;
+}
+.threetarget{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+    gap: 10px;
+}
+.target-one{
+    border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+padding: 40px;
+line-height: 2;
+
+}
+.target-two{
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+padding: 40px;
+line-height: 2;
+}
+.target-three{
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+padding: 40px;
+line-height: 2;
+}
