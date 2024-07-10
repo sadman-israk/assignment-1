@@ -185,3 +185,32 @@ background: rgba(255, 223, 0, 0.05);
 padding: 40px;
 line-height: 2;
 }
+/* last section */
+.finaltext{
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1200px;
+    margin: auto;
+   text-align: center;
+   padding: 50px;
+   color: white;
+}
+.final input {
+    padding: 25px 90px;
+    margin-top: 20px;
+    border-radius: 8px;
+    
+}
+.final h2{
+    margin-bottom: 20px;
+}
+.parent{
+    display: flex;
+    justify-content:space-between;
+    max-width: 1100px;
+    margin: auto;
+    padding: 40px;
+    
+}
